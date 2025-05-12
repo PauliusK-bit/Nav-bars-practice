@@ -19,9 +19,9 @@ body {
   transition: transform 0.3s;
 }
 
-/* .logo-container:hover {
+.logo-container:hover {
   transform: scale(1.05);
-} */
+}
 
 .truck-icon {
   font-size: 80px;
